@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyAndSellApp.API", "BuyAndSellApp.API\BuyAndSellApp.API.csproj", "{3C98E65B-4190-4D64-8E55-72FA28779BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C98E65B-4190-4D64-8E55-72FA28779BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C98E65B-4190-4D64-8E55-72FA28779BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C98E65B-4190-4D64-8E55-72FA28779BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C98E65B-4190-4D64-8E55-72FA28779BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB87DDB-849C-4731-B8F3-F568AD8ADCA5}
+	EndGlobalSection
+EndGlobal
